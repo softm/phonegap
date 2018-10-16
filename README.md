@@ -1,4 +1,4 @@
-## 원본 : [Do it! 쉽게배우는 웹앱&하이브리드 앱](https://www.inflearn.com/course/%EC%89%BD%EA%B2%8C%EB%B0%B0%EC%9A%B0%EB%8A%94-%EC%9B%B9%EC%95%B1%ED%95%98%EC%9D%B4%EB%B8%8C%EB%A6%AC%EB%93%9C-%EC%95%B1/)
+## 원본 : [Do it! 쉽게배우는 웹앱&하이브리드 앱](https://www.inflearn.com/course/쉽게배우는-웹앱하이브리드-앱/)
 
 ### 폰갭(PhoneGap) - 코르도바(cordova)
   - Hybrid App ( 하이브리드앱 )
